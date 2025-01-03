@@ -1,7 +1,7 @@
 ---
 hide:
-  - navigation
-  - top
+  #- navigation
+  #- top
   - feedback
   - footer
 status: new
