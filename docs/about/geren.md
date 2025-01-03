@@ -8,7 +8,7 @@ hide:
 </center>  
 
 
- <span id="jinrishici-sentence">今日诗词</span>
+# <span id="jinrishici-sentence">今日诗词</span>
 
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
 <link
