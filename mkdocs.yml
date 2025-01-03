@@ -233,6 +233,7 @@ plugins:
         - blog/posts/wkw.md
         - about/link.md
         - blog/Mkdocs/linktech.md
+        - about/geren.md
   - git-committers:
       enabled: !ENV [CI, false]
       repository: Wcowin/Wcowin.github.io
