@@ -1,17 +1,14 @@
 ---
 hide:
-  #- navigation
-  #- top
   - feedback
   - footer
-#status: new
 ---
 <center> 
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 </center>  
 
 
-# <span id="jinrishici-sentence">今日诗词</span>
+ <span id="jinrishici-sentence">今日诗词</span>
 
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
 <link
