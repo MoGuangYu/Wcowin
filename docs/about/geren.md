@@ -1,7 +1,10 @@
 ---
 hide:
+#   - navigation
+  # - toc
   - feedback
   - footer
+#status: new
 ---
 <center> 
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
