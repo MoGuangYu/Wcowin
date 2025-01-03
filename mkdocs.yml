@@ -245,6 +245,7 @@ plugins:
         - blog/posts/wkw.md
         - about/link.md
         - blog/Mkdocs/linktech.md
+        - about/geren.md
   - blog:
       post_date_format: full #时间
       draft: true
