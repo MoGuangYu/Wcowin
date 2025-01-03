@@ -145,20 +145,7 @@ nav:
     - blog/index.md
   - 关于:
     - 个人简介: about/geren.md
-    # - 一纸简历: https://cv.devtool.tech/preview/76751620-faad-4537-bffd-73ced6ee9671
-    - 个人简历: about/resume.md
     - 免责声明: about/shengming.md
-    - Github主页介绍: about/Wcowin.md
-    - 网站制作: about/web.md
-    - 支持作者: about/zcw.md
-    - 毕业之前值得去做的30件事: about/biye.md
-    - 测试组件: about/test.md
-    - 404公益页面: about/404.md
-    # - 我们♡+♡=♡²: about/Foryou.md
-    - 年度总结:
-        - 2023: about/zongjie/2023.md
-        - 2024: about/zongjie/2024.md
-    - 考研: about/kaoyan.md
 
 copyright: Copyright &copy; 2022~2024 Wcowin/All Rights Reserved. # 左下角的版权声明
 
