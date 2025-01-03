@@ -23,7 +23,8 @@ status: new
 
 <html lang="en">
 <p style="text-align: center; margin: 0px;" markdown>
-  <img src="https://vip.helloimg.com/i/2024/07/28/66a59489ae5b1.jpeg" alt="arv-anshul" style="width: 300px; border-radius: 50%;" />
+  <!-- 使用本地图片 -->
+  <img src="assets/images/gyw.jpg" alt="arv-anshul" style="width: 300px; border-radius: 50%;" />
   <p style="text-align: center; font-size: 30px; margin: 0px;"><strong>A college student in Chongqing</strong></p>
     <head>
         <meta charset="UTF-8">
@@ -46,16 +47,16 @@ status: new
 </p>
                         <div class="about__info">
                             <div>
-                                <span class="about__info-title">01+</span>
+                                <span class="about__info-title">99+</span>
                                 <span class="about__info-name">工作经验</span>
                             </div>
                             <div>
-                                <span class="about__info-title">03+</span>
-                                <span class="about__info-name">已经完成的项目</span>
+                                <span class="about__info-title">99-</span>
+                                <span class="about__info-name">已经完成的目标</span>
                             </div>
                             <div>
-                                <span class="about__info-title">02+</span>
-                                <span class="about__info-name">贡献的开源</span>
+                                <span class="about__info-title">99-</span>
+                                <span class="about__info-name">已有的存款</span>
                             </div>
                         </div>
                     </div>
@@ -63,12 +64,11 @@ status: new
             </section>
                 </body>
 </html>
-<center>[下载简历 :fontawesome-solid-download:](个人简历.pdf){.md-button}</center>
 
 ---
 ## 个人履历
 
-<html lang="en">
+<html lang="en"
 <body>
     <!--==================== QUALIFICATION ====================-->
     <section class="qualification section">
@@ -90,7 +90,7 @@ status: new
                     <!--==================== QUALIFICATION 1 ====================-->
                     <div class="qualification__data">
                         <div>
-                            <h3 class="qualification__title">漯河高中</h3>
+                            <h3 class="qualification__title">XX高中</h3>
                             <span class="qualification__subtitle">平凡的三年</span>
                             <div class="qualification__calendar">
                                 <iconify-icon icon="tabler:calendar"></iconify-icon>
@@ -185,49 +185,7 @@ ____    __    ____  ______   ______   ____    __    ____  __  .__   __.
     - [x] 读书明志可识春秋;诗词爱好者,喜欢村上春树，擅长羽毛球
 <img class="img1" src="https://s2.loli.net/2024/02/01/AgiGpYk38C6ctJV.jpg">
 
-## 联系我
-
-<a href="https://s1.imagehub.cc/images/2024/02/02/bb9ee71b03ee7a3b87caad5cc4bcebff.jpeg" target="_blank">
- <center>
-  <img class="img1" src="https://s1.imagehub.cc/images/2024/02/02/bb9ee71b03ee7a3b87caad5cc4bcebff.jpeg" style="width: 450px; height: auto;">
-    <div style="color:orange; 
-    color: #999;
-    padding: 2px;">我的Wechat</div>
-  </center>  
-</a>
-<figure markdown >
-  ![Image title](https://s1.imagehub.cc/images/2024/02/02/43c746351261969a02bda7d743199604.jpeg){.img1}
-  <figcaption>公众号</figcaption>
-</figure>
-
-## 个人简历
-
-<div class="grid cards" markdown>
-
--   :octicons-bookmark-16:{ .lg .middle } __求实习(25届)__
-
-    ---
-
-    [个人简历(在线)](https://cv.devtool.tech/preview/76751620-faad-4537-bffd-73ced6ee9671)
-</div>
-
-<!-- ## 个人技能
-**本人擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、Ps 等软件的安装与卸载。  
-精通 CSS、JavaScript、PHP、ASP、C、C++、C#、Java、Ruby、Perl、Lisp、Python、Objective-C、ActionScript、Pascal 等单词的拼写。  
-熟悉 Windows、Linux、OS X、Android、iOS、WP8 、harmony、hyper等系统的开关机。**
-![](https://s3.uuu.ovh/imgs/2024/07/04/82b473abd2059779.png){loading=lazy  class="img1"  width="90%"}   -->
-
-## 个人荣誉
-![IMG_9007.jpeg](https://s2.loli.net/2024/02/03/RH5jOlZqdITAcw8.jpg){loading=lazy  class="img1"  }  
-
-
-## 须知
-如果你在浏览博客的过程中发现了任何问题，欢迎前往 GitHub 的[代码仓库](https://github.com/Wcowin/Wcowin.github.io)提交 [Issues](https://github.com/Wcowin/Wcowin.github.io/issues) 或直接修改相关文件后提交 Pull Requests。如果你有其他事情想要咨询，可以通过下方按钮使用邮件联系我,请不要滥用博客的评论功能发表与主题无关言论。
-
-!!! note
-    如果给我发[邮件](mailto:<wangkewen821@gmail.com>)，或者通过右下角微信添加好友，请写上您的**真名实姓**。对于那些不知来路、上来就问问题的微信和邮件，我通常会直接忽略，谢谢。
-
-    [Send Email :fontawesome-solid-paper-plane:](mailto:<wangkewen821@gmail.com>){.md-button}  
+  
 
 
 <!-- <chat-bot platform_id="d19a99ed-b684-4d64-8c70-7663d974af17" user_id="325b3ae2-0317-4c5f-9f9b-c4ce0e51e36b" chatbot_id="8eedef48-41ef-4f78-97d9-71e8197a452d"><a href="https://www.chatsimple.ai/?utm_source=widget&utm_medium=referral">[chatbot]</a></chat-bot><script src="https://cdn.chatsimple.ai/chat-bot-loader.js" defer></script> -->
