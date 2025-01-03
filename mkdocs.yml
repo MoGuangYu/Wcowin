@@ -13,7 +13,7 @@ theme:
     code: Roboto Mono
   # font:
   #   text: Bitter
-  logo: log.png
+  logo: assets/images.jpg
   # https://s2.loli.net/2024/02/01/gaE47y5fKM6kosV.png
   favicon: https://s2.loli.net/2024/04/06/yEOZavwMr6kTWhu.png
   palette:
