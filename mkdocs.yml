@@ -13,7 +13,7 @@ theme:
     code: Roboto Mono
   # font:
   #   text: Bitter
-  logo: assets/images.jpg
+  logo: assets/images.png
   # https://s2.loli.net/2024/02/01/gaE47y5fKM6kosV.png
   favicon: https://s2.loli.net/2024/04/06/yEOZavwMr6kTWhu.png
   palette:
@@ -58,17 +58,7 @@ theme:
     - content.action.view
     - content.code.annotate 
   language: en # 一些提示性的文字会变成中文
-  icon:
-    repo: fontawesome/brands/github #右上角图标
-    tag:
-      html: fontawesome/brands/html5
-      js: fontawesome/brands/js
-      css:  fontawesome/brands/css3
-      Mkdocs: octicons/tag-16    
-    
-edit_uri: edit/main/docs # 编辑按钮跳转的链接 
-repo_url: https://github.com/Wcowin/Wcowin.github.io # 右上角点击跳转的链接
-repo_name: Wcowin.github.io # 右上角的名字
+
 
 # [Navigtion]
 nav:
