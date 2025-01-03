@@ -23,7 +23,7 @@ status: new
 
 <html lang="en">
 <p style="text-align: center; margin: 0px;" markdown>
-  <img src="assets/images/gyw.jpg" alt="arv-anshul" style="width: 300px; border-radius: 50%;" />
+  <img src="../assets/images/gyw.jpg" alt="arv-anshul" style="width: 300px; border-radius: 50%;" />
   <p style="text-align: center; font-size: 30px; margin: 0px;"><strong>Un employ ed</strong></p>
     <head>
         <meta charset="UTF-8">
