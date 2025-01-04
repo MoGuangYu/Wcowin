@@ -83,6 +83,7 @@ nav:
 copyright: Copyright &copy; 2025 MoGuangYu/All Rights Reserved. # 左下角的版权声明
 
 extra:
+  signature: 专注技术分享与成长  # 签名内容
   status:
     new: Recently added
   disqus:
