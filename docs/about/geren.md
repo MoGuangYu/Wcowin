@@ -24,7 +24,7 @@ hide:
 <html lang="en">
 <p style="text-align: center; margin: 0px;" markdown>
   <img src="../assets/images/gyw.jpg" alt="arv-anshul" style="width: 300px; border-radius: 50%;" />
-  <p style="text-align: center; font-size: 30px; margin: 0px;"><strong>Un employ ed</strong></p>
+  <p style="text-align: center; font-size: 30px; margin: 0px;"><strong>Mo Guang Yu</strong></p>
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -179,9 +179,9 @@ ____    __    ____  ______   ______   ____    __    ____  __  .__   __.
 !!! pied-piper1 "About me"
     - [x] Hey, I'm [Yuboy](){target=“_blank”}!
     - [x] 清醒，知趣，明得失，知进退
-    - [x] 咖啡重度爱好者 
-    - [x] 热爱(xiā)折腾技术/Math
-    - [x] 读书明志可识春秋;诗词爱好者,喜欢村上春树，擅长羽毛球
+    - [x] 耳机重度爱好者 
+    - [x] 热爱(xiā)折腾/Math
+    - [x] 读书明志可识春秋;诗词爱好者,喜欢不良帅
 <img class="img1" src="https://s2.loli.net/2024/02/01/AgiGpYk38C6ctJV.jpg">
 
   

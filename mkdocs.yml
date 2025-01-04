@@ -65,76 +65,9 @@ nav:
   # - 主页: index.md
   - 闲聊:
     - relax/index.md
-    - 推荐的Books: relax/tuijianyuedu.md
-    - 小米: relax/xiaomo.md
-    - Apple: relax/Apple.md
-    # - 如是我闻: relax/rushiwowen.md
-    - 王冰冰♡: relax/wbb.md
-    - 诗文:
-      - 枫桥夜泊: relax/shiwen/fqyb.md
-      - 滕王阁序: relax/shiwen/twgx.md
-      - 望江南·超然台作: relax/shiwen/sjcnh.md
-      - 击鼓: relax/shiwen/jg.md
-      - 雨霖铃·秋别: relax/shiwen/yll.md
-      - 江城子·乙卯正月二十日夜记梦: relax/shiwen/jcz.md
-    - 日记:
-      - 2024: 
-          - 20240131: relax/diary/2024/20240131.md
-          - 20240218: relax/diary/2024/20240218.md 
-          - 20231224: relax/diary/2024/20231224.md     
-    - 数至十: 
-      - 1: relax/wkwMath/1.md
-      - 2: relax/wkwMath/2.md 
-      - 3: relax/wkwMath/3.md 
-      - 4: relax/wkwMath/4.md
-      - 5: relax/wkwMath/5.md
-      - 6: relax/wkwMath/6.md
-      # - 诗经: relax/shiwen/shijing.json
 
-    - 观影:
-        - 推荐的番剧: relax/Movie/tuijianfanju.md
-        - 推荐的电影: relax/Movie/tuijiandedianyin.md
-        - 推荐的电视剧: relax/Movie/tuijiandsj.md
-
-    - 杂文:
-        - 毛主席语录选编: relax/Essay/mzdyl.md
-        - 《目送》节选: relax/Essay/musong.md
-        - 大学一个人吃饭很丢人吗？: relax/Essay/dx.md
-        - luv letter: relax/Essay/luv letter.md
-        - 有哪些给男孩子在谈恋爱时的忠告？: relax/Essay/zhonggao.md
-        - 哈基米🐈: relax/Essay/cat.md
-    - 程序人生:
-        - 《程序员成长历程的四个阶段》: relax/Manong/sigejieduan.md
-        - 《程序员脱单指南》: relax/Manong/tuodanbukeneng.md
-        - 《程序员学习路线图》: relax/Manong/wtf.md
-        - 《printf("❤️\n》: relax/Manong/cxiaoaixin.md
-    - 写信:
-        - 第一封: relax/Letter/letter1.md
-        - 第二封: relax/Letter/letter2.md
-        - 情书:
-            -   朱生豪与宋清如: relax/Letter/luvletter/sqrzszyz.md
-            - 《朱生豪情书全集摘录》(021): relax/Letter/luvletter/zhushenghao1.md
-            - 《朱生豪情书全集摘录》(031): relax/Letter/luvletter/zhushenghao2.md
-            - 《朱生豪情书全集摘录》(036): relax/Letter/luvletter/zhushenghao3.md
-            - 《朱生豪情书全集摘录》(046): relax/Letter/luvletter/zhushenghao4.md
-            - 《朱生豪情书全集摘录》(053): relax/Letter/luvletter/zhushenghao5.md
-            - 《朱生豪情书全集摘录》(055): relax/Letter/luvletter/zhushenghao6.md
-
-    - Game:
-        - 原神: relax/Game/yuanshen.md
-        - 如何玩好《王者荣耀》？: relax/Game/wzry.md
-    - 入党结业考试题总结: relax/rudang.md
-    - 润学之为什么润: about/run.md
-    - 让人说话，天塌不下来: about/maozedong.md
-    - 关于教育革命的谈话: relax/jiaoyu.md
-    - 程序猿神之楷模:一个人,一个网站,5.75亿美元卖掉: relax/kaimo.md
-    
   - 旅行: 
     - trip/index.md
-    - 重庆: 
-        - 重庆旅游推荐路线: trip/InCQ/CQ.md
-    - Hometown: trip/LH.md
-    - 西安: trip/Xian.md
 
   - 标签: tag.md
   - 留言板: waline.md
@@ -147,7 +80,7 @@ nav:
     - 个人简介: about/geren.md
     - 免责声明: about/shengming.md
 
-copyright: Copyright &copy; 2022~2024 Wcowin/All Rights Reserved. # 左下角的版权声明
+copyright: Copyright &copy; 2025 MoGuangYu/All Rights Reserved. # 左下角的版权声明
 
 extra:
   status:
