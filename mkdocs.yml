@@ -158,7 +158,7 @@ extra:
     app_id: 655cf3bc-734a-4d88-8317-be350621334c
     lang: zh-cn
 
-  generator: true  #删除页脚显示“使用 MkDocs 材料制造”
+  generator: false  #删除页脚显示“使用 MkDocs 材料制造”
   social:
     - icon: fontawesome/brands/weixin
       link: https://s1.imagehub.cc/images/2024/02/02/bb9ee71b03ee7a3b87caad5cc4bcebff.jpeg
